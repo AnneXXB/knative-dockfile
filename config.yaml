@@ -1,0 +1,7 @@
+auth:
+  registry.hub.docker.com:
+    username: USERNAME
+    password: PASSWORD
+images:
+  gcr.io/k8s-staging-sig-storage/nfs-provisioner: xingxb/nfs-provisioner
+  k8s.gcr.io/git-sync/git-sync: xingxb/git-sync
